@@ -27,6 +27,9 @@ mediacontrol -h|--help
 
 ### example
 
+![kb-media](https://user-images.githubusercontent.com/2143465/178060311-d4cd0ebd-866e-4d48-abd3-b3e42b66f7c2.png)
+
+
 **i3wm** keybinings:  
 ```
 set $W bindsym Mod4
